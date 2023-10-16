@@ -84,6 +84,7 @@ struct ContentView: View {
                                     }
                                     Spacer()
                                     Image(systemName: "ellipsis")
+                                        .foregroundColor(.white)
                                 }
                                 .padding(.leading, 10)
                                 .padding(.bottom, 10)
