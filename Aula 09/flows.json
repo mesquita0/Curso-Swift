@@ -1,0 +1,252 @@
+[
+    {
+        "id": "4b9a833f0b5de411",
+        "type": "tab",
+        "label": "Flow 3",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "da2684a2f8e433c7",
+        "type": "cloudantplus in",
+        "z": "4b9a833f0b5de411",
+        "name": "",
+        "cloudant": "9b146563978efb67",
+        "database": "kaynamesquita",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 420,
+        "y": 340,
+        "wires": [
+            [
+                "25c652bc0e204466"
+            ]
+        ]
+    },
+    {
+        "id": "5078cc58d4a56493",
+        "type": "cloudantplus out",
+        "z": "4b9a833f0b5de411",
+        "name": "",
+        "cloudant": "9b146563978efb67",
+        "database": "kaynamesquita",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 520,
+        "y": 120,
+        "wires": [
+            [
+                "0d0541ae5f3f2309"
+            ]
+        ]
+    },
+    {
+        "id": "ec2131c861421521",
+        "type": "http in",
+        "z": "4b9a833f0b5de411",
+        "name": "",
+        "url": "/salvarCursos",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 120,
+        "wires": [
+            [
+                "add8645cdbe66c3e"
+            ]
+        ]
+    },
+    {
+        "id": "0d0541ae5f3f2309",
+        "type": "http response",
+        "z": "4b9a833f0b5de411",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 710,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "a5761049b7e5f7b9",
+        "type": "http in",
+        "z": "4b9a833f0b5de411",
+        "name": "",
+        "url": "/lerCursos",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 340,
+        "wires": [
+            [
+                "da2684a2f8e433c7"
+            ]
+        ]
+    },
+    {
+        "id": "25c652bc0e204466",
+        "type": "http response",
+        "z": "4b9a833f0b5de411",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 650,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "2e59c2526f66e2d6",
+        "type": "http in",
+        "z": "4b9a833f0b5de411",
+        "name": "",
+        "url": "/deletarCurso",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 140,
+        "y": 440,
+        "wires": [
+            [
+                "c24e8a2f002cc227"
+            ]
+        ]
+    },
+    {
+        "id": "c24e8a2f002cc227",
+        "type": "cloudantplus out",
+        "z": "4b9a833f0b5de411",
+        "name": "",
+        "cloudant": "9b146563978efb67",
+        "database": "kaynamesquita",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "delete",
+        "x": 420,
+        "y": 440,
+        "wires": [
+            [
+                "a2583850d5c90742"
+            ]
+        ]
+    },
+    {
+        "id": "a2583850d5c90742",
+        "type": "http response",
+        "z": "4b9a833f0b5de411",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 650,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "f1b820bc9984d125",
+        "type": "http in",
+        "z": "4b9a833f0b5de411",
+        "name": "",
+        "url": "/editarCurso",
+        "method": "put",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 560,
+        "wires": [
+            [
+                "e1c8325975cc6f01"
+            ]
+        ]
+    },
+    {
+        "id": "e1c8325975cc6f01",
+        "type": "cloudantplus out",
+        "z": "4b9a833f0b5de411",
+        "name": "",
+        "cloudant": "9b146563978efb67",
+        "database": "kaynamesquita",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 420,
+        "y": 560,
+        "wires": [
+            [
+                "dc9fc23a270da1fb"
+            ]
+        ]
+    },
+    {
+        "id": "dc9fc23a270da1fb",
+        "type": "http response",
+        "z": "4b9a833f0b5de411",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 650,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "add8645cdbe66c3e",
+        "type": "switch",
+        "z": "4b9a833f0b5de411",
+        "name": "",
+        "property": "payload.length",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "lte",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 170,
+        "y": 200,
+        "wires": [
+            [
+                "5078cc58d4a56493"
+            ],
+            [
+                "2241289577a470a7"
+            ]
+        ]
+    },
+    {
+        "id": "2241289577a470a7",
+        "type": "split",
+        "z": "4b9a833f0b5de411",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 350,
+        "y": 220,
+        "wires": [
+            [
+                "5078cc58d4a56493"
+            ]
+        ]
+    },
+    {
+        "id": "9b146563978efb67",
+        "type": "cloudantplus",
+        "host": "https://apikey-v2-xqmwqcwxzw39a34csad7x4mhe9k08798uohg4ihq9o7:40f8a5b2dea8e8dd04aee009c2247092@bbd3c0ee-d0c8-455b-bbd3-8d6d996c2c0a-bluemix.cloudantnosqldb.appdomain.cloud",
+        "name": "Kayna2410",
+        "useapikey": true
+    }
+]
