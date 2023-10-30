@@ -1,0 +1,4916 @@
+[
+    {
+        "id": "1c41c05149f077ef",
+        "type": "tab",
+        "label": "Create",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "f6921f9eadf2cc6e",
+        "type": "tab",
+        "label": "Read",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ead50971a6767fb6",
+        "type": "tab",
+        "label": "Flow-Wilque-2",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "2c6290270af0425d",
+        "type": "tab",
+        "label": "Flow-Wilque-3",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "57ff58e32b47c0a5",
+        "type": "tab",
+        "label": "Flow 1 - Winque",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "2b9946229feb8128",
+        "type": "tab",
+        "label": "mtusuarios",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "f150e5d452fef456",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "eb35276fc0f4a3d9",
+        "type": "tab",
+        "label": "Update",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "3458b98de316ca8b",
+        "type": "tab",
+        "label": "maamigos",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "b0a98b95bfcd91b9",
+        "type": "tab",
+        "label": "mtequipes",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "6ba7632a126c2624",
+        "type": "tab",
+        "label": "Flow 7",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "07f7a97667b92a52",
+        "type": "tab",
+        "label": "Flow 4",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "5e8a066b899f0f52",
+        "type": "tab",
+        "label": "Flow 8",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "a37751d2a82fd8ae",
+        "type": "tab",
+        "label": "mtparticipacoes",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "5457b4a1ecaeef18",
+        "type": "tab",
+        "label": "mteventos",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "84b571404418dc1b",
+        "type": "tab",
+        "label": "Flow 5",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "579f19f6bc635869",
+        "type": "tab",
+        "label": "mtpartidas",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "c17477c47cbe7d2d",
+        "type": "tab",
+        "label": "Flow 9",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "917744e43ff041f1",
+        "type": "tab",
+        "label": "MateusRosario - Flow IoT",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "99e4f1b9b4a87d39",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "525bbb2a57f7f05a",
+        "type": "tab",
+        "label": "Flow 10",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "7b092a7ccb850a85",
+        "type": "tab",
+        "label": "Flow 6",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ce806b383a3c30f7",
+        "type": "tab",
+        "label": "Update",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "e4eb4caef0eb148a",
+        "type": "tab",
+        "label": "Delete",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "d21c1590140b0654",
+        "type": "tab",
+        "label": "Flow 11",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "4b9a833f0b5de411",
+        "type": "tab",
+        "label": "Flow 3",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "65a0f2075614f404",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "49e02cd63adc0a48",
+        "type": "tab",
+        "label": "Flow 3",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "9ad9652a185f6583",
+        "type": "tab",
+        "label": "Flow 13",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "7411e912733c29a3",
+        "type": "tab",
+        "label": "Flow 3",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "1ddc098d805d3fc5",
+        "type": "ibmiot",
+        "name": "",
+        "keepalive": "60",
+        "serverName": "kgpg13.messaging.internetofthings.ibmcloud.com",
+        "cleansession": true,
+        "appId": "",
+        "shared": false
+    },
+    {
+        "id": "658312e40bfa1386",
+        "type": "ibmiot",
+        "name": "plantaIOT",
+        "keepalive": "60",
+        "serverName": "ai36es.messaging.internetofthings.ibmcloud.com",
+        "cleansession": true,
+        "appId": "",
+        "shared": false
+    },
+    {
+        "id": "9b146563978efb67",
+        "type": "cloudantplus",
+        "host": "https://apikey-v2-xqmwqcwxzw39a34csad7x4mhe9k08798uohg4ihq9o7:40f8a5b2dea8e8dd04aee009c2247092@bbd3c0ee-d0c8-455b-bbd3-8d6d996c2c0a-bluemix.cloudantnosqldb.appdomain.cloud",
+        "name": "Kayna2410",
+        "useapikey": true
+    },
+    {
+        "id": "3f7137731a557ae3",
+        "type": "cloudantplus",
+        "host": "https://apikey-v2-1ktz4lxoza3jin66m1crk4c80mcl83tih2dp98bc2hv:d22c76b55edaeea1c6aa6e6c6bdd81ec@bbd3c0ee-d0c8-455b-bbd3-8d6d996c2c0a-bluemix.cloudantnosqldb.appdomain.cloud",
+        "name": "",
+        "useapikey": false
+    },
+    {
+        "id": "b2951d6249908fc1",
+        "type": "cloudantplus",
+        "host": "https://apikey-v2-339gx2xg1mc0vngrwgh6cdqv91aft58wq981ue564z4n:01f8820ea96e7e5c07b79ad997c6a50f@bbd3c0ee-d0c8-455b-bbd3-8d6d996c2c0a-bluemix.cloudantnosqldb.appdomain.cloud",
+        "name": "",
+        "useapikey": false
+    },
+    {
+        "id": "5d264820b1727b02",
+        "type": "cloudantplus",
+        "host": "https://apikey-v2-339gx2xg1mc0vngrwgh6cdqv91aft58wq981ue564z4n:01f8820ea96e7e5c07b79ad997c6a50f@bbd3c0ee-d0c8-455b-bbd3-8d6d996c2c0a-bluemix.cloudantnosqldb.appdomain.cloud",
+        "name": "",
+        "useapikey": true
+    },
+    {
+        "id": "21d9cc02f6f29c61",
+        "type": "http response",
+        "z": "1c41c05149f077ef",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 630,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "60a869f612bcc988",
+        "type": "debug",
+        "z": "1c41c05149f077ef",
+        "name": "debug 92",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 380,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "b37e4f8318493611",
+        "type": "http in",
+        "z": "1c41c05149f077ef",
+        "name": "",
+        "url": "/salvarQuitanda",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 140,
+        "y": 120,
+        "wires": [
+            [
+                "60a869f612bcc988",
+                "05542be8aa41baf3"
+            ]
+        ]
+    },
+    {
+        "id": "05542be8aa41baf3",
+        "type": "cloudantplus out",
+        "z": "1c41c05149f077ef",
+        "name": "",
+        "cloudant": "5d264820b1727b02",
+        "database": "quitandaufersa2",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 400,
+        "y": 120,
+        "wires": [
+            [
+                "21d9cc02f6f29c61"
+            ]
+        ]
+    },
+    {
+        "id": "8aef56f0e360a02b",
+        "type": "http response",
+        "z": "1c41c05149f077ef",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 630,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "a355b5c2a8e2be9d",
+        "type": "debug",
+        "z": "1c41c05149f077ef",
+        "name": "debug 93",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 380,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "9fc30d6a1c1b028b",
+        "type": "http in",
+        "z": "1c41c05149f077ef",
+        "name": "",
+        "url": "/atualizaQuitanda",
+        "method": "patch",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 150,
+        "y": 240,
+        "wires": [
+            [
+                "a355b5c2a8e2be9d",
+                "16140e7cc0034b65"
+            ]
+        ]
+    },
+    {
+        "id": "16140e7cc0034b65",
+        "type": "cloudantplus out",
+        "z": "1c41c05149f077ef",
+        "name": "",
+        "cloudant": "5d264820b1727b02",
+        "database": "quitandadb",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 390,
+        "y": 240,
+        "wires": [
+            [
+                "8aef56f0e360a02b"
+            ]
+        ]
+    },
+    {
+        "id": "3657291384c40875",
+        "type": "cloudantplus in",
+        "z": "f6921f9eadf2cc6e",
+        "name": "",
+        "cloudant": "5d264820b1727b02",
+        "database": "quitandaufersa2",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 340,
+        "y": 80,
+        "wires": [
+            [
+                "8377247057561f48"
+            ]
+        ]
+    },
+    {
+        "id": "38dc3630d7e0ca13",
+        "type": "http in",
+        "z": "f6921f9eadf2cc6e",
+        "name": "",
+        "url": "/lerQuitanda",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 80,
+        "wires": [
+            [
+                "3657291384c40875"
+            ]
+        ]
+    },
+    {
+        "id": "8377247057561f48",
+        "type": "http response",
+        "z": "f6921f9eadf2cc6e",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 530,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "aae67cdd2a9b8234",
+        "type": "http in",
+        "z": "ead50971a6767fb6",
+        "name": "",
+        "url": "/lergetwm",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 240,
+        "y": 180,
+        "wires": [
+            [
+                "d452032053af79e8"
+            ]
+        ]
+    },
+    {
+        "id": "d452032053af79e8",
+        "type": "cloudantplus in",
+        "z": "ead50971a6767fb6",
+        "name": "",
+        "cloudant": "",
+        "database": "wilquemuriel",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 470,
+        "y": 260,
+        "wires": [
+            [
+                "522f6aa0dc65be50",
+                "0c0d1162fea0eca6"
+            ]
+        ]
+    },
+    {
+        "id": "522f6aa0dc65be50",
+        "type": "http response",
+        "z": "ead50971a6767fb6",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 630,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "0c0d1162fea0eca6",
+        "type": "debug",
+        "z": "ead50971a6767fb6",
+        "name": "debug 7",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 720,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "425c64da388e6c83",
+        "type": "http in",
+        "z": "2c6290270af0425d",
+        "name": "",
+        "url": "/atualizawm",
+        "method": "put",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 220,
+        "y": 140,
+        "wires": [
+            [
+                "ee46b5e9d5b8b876"
+            ]
+        ]
+    },
+    {
+        "id": "2d111a40b67e2ffb",
+        "type": "http response",
+        "z": "2c6290270af0425d",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 670,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "ee46b5e9d5b8b876",
+        "type": "cloudantplus out",
+        "z": "2c6290270af0425d",
+        "name": "",
+        "cloudant": "",
+        "database": "wilquemuriel",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 430,
+        "y": 140,
+        "wires": [
+            [
+                "2d111a40b67e2ffb",
+                "bcfbb8cb63ecd2f0"
+            ]
+        ]
+    },
+    {
+        "id": "bcfbb8cb63ecd2f0",
+        "type": "debug",
+        "z": "2c6290270af0425d",
+        "name": "debug 8",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 680,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "805730abe208b91b",
+        "type": "http in",
+        "z": "2c6290270af0425d",
+        "name": "",
+        "url": "/deletawm",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 250,
+        "y": 380,
+        "wires": [
+            [
+                "37b48311348151a7"
+            ]
+        ]
+    },
+    {
+        "id": "21b304a576e90260",
+        "type": "http response",
+        "z": "2c6290270af0425d",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 690,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "37b48311348151a7",
+        "type": "cloudantplus out",
+        "z": "2c6290270af0425d",
+        "name": "",
+        "cloudant": "",
+        "database": "wilquemuriel",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "delete",
+        "x": 450,
+        "y": 380,
+        "wires": [
+            [
+                "21b304a576e90260",
+                "895d29cc02963efc"
+            ]
+        ]
+    },
+    {
+        "id": "895d29cc02963efc",
+        "type": "debug",
+        "z": "2c6290270af0425d",
+        "name": "debug 9",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 700,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "4f32a80ab8ca7a66",
+        "type": "http response",
+        "z": "57ff58e32b47c0a5",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 2530,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "521e6d7713d70d82",
+        "type": "cloudantplus in",
+        "z": "57ff58e32b47c0a5",
+        "name": "Server Conection",
+        "cloudant": "",
+        "database": "mateusrosario",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 2290,
+        "y": 40,
+        "wires": [
+            [
+                "4f32a80ab8ca7a66"
+            ]
+        ]
+    },
+    {
+        "id": "4a4c30a9121ea93d",
+        "type": "http in",
+        "z": "57ff58e32b47c0a5",
+        "name": "",
+        "url": "dados",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 2030,
+        "y": 40,
+        "wires": [
+            [
+                "521e6d7713d70d82"
+            ]
+        ]
+    },
+    {
+        "id": "b8c25f1f54b93e4b",
+        "type": "cloudantplus out",
+        "z": "57ff58e32b47c0a5",
+        "name": "",
+        "cloudant": "",
+        "database": "wilquemuriellocal",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 450,
+        "y": 180,
+        "wires": [
+            [
+                "7c6026213561a92a",
+                "106eb349b711f311"
+            ]
+        ]
+    },
+    {
+        "id": "c34f5ed58ad97a92",
+        "type": "http in",
+        "z": "57ff58e32b47c0a5",
+        "name": "[POST] Salva Local",
+        "url": "/wilque-local",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 90,
+        "y": 180,
+        "wires": [
+            [
+                "b8c25f1f54b93e4b"
+            ]
+        ],
+        "info": "# JSON Esperado\n\n{\n  \"name\": \"name\",\n  \"capa\": \"\",\n  \"artista\": \"\",\n}"
+    },
+    {
+        "id": "7c6026213561a92a",
+        "type": "http response",
+        "z": "57ff58e32b47c0a5",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 730,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "106eb349b711f311",
+        "type": "debug",
+        "z": "57ff58e32b47c0a5",
+        "name": "Response Post local",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 980,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "2eb409158ccf2661",
+        "type": "cloudantplus out",
+        "z": "57ff58e32b47c0a5",
+        "name": "",
+        "cloudant": "",
+        "database": "wilquemuriellocal",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 450,
+        "y": 400,
+        "wires": [
+            [
+                "cdf6491f87ca5314",
+                "a5a3d60295d42bf8"
+            ]
+        ]
+    },
+    {
+        "id": "fdda817321affe22",
+        "type": "http in",
+        "z": "57ff58e32b47c0a5",
+        "name": "[PUT] Atualiza Local",
+        "url": "/wilque-local",
+        "method": "put",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 90,
+        "y": 400,
+        "wires": [
+            [
+                "2eb409158ccf2661"
+            ]
+        ],
+        "info": "# JSON Esperado\n\n{\n  \"_id\": \"\",\n  \"_rev\": \"\",\n  \"name\": \"name\",\n  \"capa\": \"\",\n  \"artista\": \"\",\n}"
+    },
+    {
+        "id": "cdf6491f87ca5314",
+        "type": "http response",
+        "z": "57ff58e32b47c0a5",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 730,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "a5a3d60295d42bf8",
+        "type": "debug",
+        "z": "57ff58e32b47c0a5",
+        "name": "Response PUT local",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 980,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "07f42b6884f066d5",
+        "type": "cloudantplus out",
+        "z": "57ff58e32b47c0a5",
+        "name": "",
+        "cloudant": "",
+        "database": "wilquemuriellocal",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "delete",
+        "x": 450,
+        "y": 620,
+        "wires": [
+            [
+                "2b2a131187092f40",
+                "428e93d0383cf207"
+            ]
+        ]
+    },
+    {
+        "id": "245ccfd4a98ae0b2",
+        "type": "http in",
+        "z": "57ff58e32b47c0a5",
+        "name": "[DELETE] Deleta Local",
+        "url": "/wilque-local",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 100,
+        "y": 620,
+        "wires": [
+            [
+                "07f42b6884f066d5"
+            ]
+        ],
+        "info": "# JSON Esperado\n\n{\n  \"_id\": \"\",\n  \"_rev\": \"\",\n}"
+    },
+    {
+        "id": "2b2a131187092f40",
+        "type": "http response",
+        "z": "57ff58e32b47c0a5",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 730,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "428e93d0383cf207",
+        "type": "debug",
+        "z": "57ff58e32b47c0a5",
+        "name": "Response PUT local",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 980,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "21aa42b42a861bbb",
+        "type": "http in",
+        "z": "57ff58e32b47c0a5",
+        "name": "[GET]lergetlocalwm",
+        "url": "/lergetlocalwm",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 90,
+        "y": 800,
+        "wires": [
+            [
+                "8d7fefced12dabb4"
+            ]
+        ],
+        "info": "# JSON Esperado\n\n{\n  \"name\": \"name\",\n  \"capa\": \"\",\n  \"artista\": \"\",\n}"
+    },
+    {
+        "id": "ee8305d5ef9cf7b1",
+        "type": "http response",
+        "z": "57ff58e32b47c0a5",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 730,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "ebac8e8d74291eb1",
+        "type": "debug",
+        "z": "57ff58e32b47c0a5",
+        "name": "Response Post local",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 980,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "8d7fefced12dabb4",
+        "type": "cloudantplus in",
+        "z": "57ff58e32b47c0a5",
+        "name": "",
+        "cloudant": "",
+        "database": "wilquemuriellocal",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 430,
+        "y": 800,
+        "wires": [
+            [
+                "ee8305d5ef9cf7b1",
+                "ebac8e8d74291eb1"
+            ]
+        ]
+    },
+    {
+        "id": "fe58ea8a21de5d2e",
+        "type": "cloudantplus out",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtusuarios",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 590,
+        "y": 440,
+        "wires": [
+            [
+                "69940d672f6c33ea"
+            ]
+        ]
+    },
+    {
+        "id": "2262f2b7cbd44655",
+        "type": "http in",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "url": "/usuarios",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 440,
+        "wires": [
+            [
+                "cb5582ae505beb8a"
+            ]
+        ]
+    },
+    {
+        "id": "da6b0ab2078c2775",
+        "type": "debug",
+        "z": "2b9946229feb8128",
+        "name": "debug 22",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "1964ed1f6efddae8",
+        "type": "cloudantplus out",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtusuarios",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "delete",
+        "x": 590,
+        "y": 760,
+        "wires": [
+            [
+                "bad3ce20d11ad2e2"
+            ]
+        ]
+    },
+    {
+        "id": "0593d4587e94ea9d",
+        "type": "http in",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "url": "/usuarios",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 760,
+        "wires": [
+            [
+                "20f2fc3808226147"
+            ]
+        ]
+    },
+    {
+        "id": "2e0bf5db06c5b379",
+        "type": "http response",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "398ac2e109c7796b",
+        "type": "debug",
+        "z": "2b9946229feb8128",
+        "name": "debug 23",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "70876648b7e846e6",
+        "type": "cloudantplus out",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtusuarios",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 590,
+        "y": 620,
+        "wires": [
+            [
+                "ed9c44f66f405fd3"
+            ]
+        ]
+    },
+    {
+        "id": "b9f2116fbbb4217f",
+        "type": "http in",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "url": "/usuarios",
+        "method": "put",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 620,
+        "wires": [
+            [
+                "4c23ce284ec30ce4"
+            ]
+        ]
+    },
+    {
+        "id": "c5f9645d09f0c355",
+        "type": "http response",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "ad02668b03b9dcd5",
+        "type": "debug",
+        "z": "2b9946229feb8128",
+        "name": "debug 24",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "e5def92483683986",
+        "type": "http response",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "f81c471a73366f57",
+        "type": "debug",
+        "z": "2b9946229feb8128",
+        "name": "debug 25",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "fcf14ca412eba05b",
+        "type": "http in",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "url": "/usuarios",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 100,
+        "wires": [
+            [
+                "60e1e0e5bd167c23"
+            ]
+        ]
+    },
+    {
+        "id": "60e1e0e5bd167c23",
+        "type": "cloudantplus in",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtusuarios",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 590,
+        "y": 100,
+        "wires": [
+            [
+                "e5def92483683986",
+                "f81c471a73366f57"
+            ]
+        ]
+    },
+    {
+        "id": "cb5582ae505beb8a",
+        "type": "split",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 290,
+        "y": 440,
+        "wires": [
+            [
+                "9c06e97be42fb561"
+            ]
+        ]
+    },
+    {
+        "id": "69940d672f6c33ea",
+        "type": "function",
+        "z": "2b9946229feb8128",
+        "name": "Merge",
+        "func": "var objeto = msg.priorObject\nobjeto[\"_id\"] = msg.payload.result.id\nobjeto[\"_rev\"] = msg.payload.result.rev\n\nmsg.payload = objeto\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 440,
+        "wires": [
+            [
+                "8bd1adc66326bcd5"
+            ]
+        ]
+    },
+    {
+        "id": "1657f915d98e14eb",
+        "type": "http response",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "9c06e97be42fb561",
+        "type": "function",
+        "z": "2b9946229feb8128",
+        "name": "Store",
+        "func": "msg.priorObject = msg.payload\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 440,
+        "wires": [
+            [
+                "fe58ea8a21de5d2e"
+            ]
+        ]
+    },
+    {
+        "id": "8bd1adc66326bcd5",
+        "type": "join",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 890,
+        "y": 440,
+        "wires": [
+            [
+                "1657f915d98e14eb",
+                "da6b0ab2078c2775"
+            ]
+        ]
+    },
+    {
+        "id": "4ecf5ba0856a23a6",
+        "type": "http response",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "173669d85b835d68",
+        "type": "debug",
+        "z": "2b9946229feb8128",
+        "name": "debug 57",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "979408dfb7357fba",
+        "type": "http in",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "url": "/usuario",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 260,
+        "wires": [
+            [
+                "a65a5699ff1444e4"
+            ]
+        ]
+    },
+    {
+        "id": "a65a5699ff1444e4",
+        "type": "cloudantplus in",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtusuarios",
+        "service": "_ext_",
+        "search": "_id_",
+        "design": "",
+        "index": "",
+        "x": 590,
+        "y": 260,
+        "wires": [
+            [
+                "4ecf5ba0856a23a6",
+                "173669d85b835d68"
+            ]
+        ]
+    },
+    {
+        "id": "4c23ce284ec30ce4",
+        "type": "split",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 270,
+        "y": 620,
+        "wires": [
+            [
+                "5822b34d01b8c677"
+            ]
+        ]
+    },
+    {
+        "id": "5822b34d01b8c677",
+        "type": "function",
+        "z": "2b9946229feb8128",
+        "name": "Store",
+        "func": "msg.priorObject = msg.payload\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 620,
+        "wires": [
+            [
+                "70876648b7e846e6"
+            ]
+        ]
+    },
+    {
+        "id": "ed9c44f66f405fd3",
+        "type": "function",
+        "z": "2b9946229feb8128",
+        "name": "Merge",
+        "func": "var objeto = msg.priorObject\nobjeto[\"_id\"] = msg.payload.result.id\nobjeto[\"_rev\"] = msg.payload.result.rev\n\nmsg.payload = objeto\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 620,
+        "wires": [
+            [
+                "f0557c8878e9732e"
+            ]
+        ]
+    },
+    {
+        "id": "f0557c8878e9732e",
+        "type": "join",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 890,
+        "y": 620,
+        "wires": [
+            [
+                "c5f9645d09f0c355",
+                "ad02668b03b9dcd5"
+            ]
+        ]
+    },
+    {
+        "id": "20f2fc3808226147",
+        "type": "split",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 370,
+        "y": 760,
+        "wires": [
+            [
+                "1964ed1f6efddae8"
+            ]
+        ]
+    },
+    {
+        "id": "bad3ce20d11ad2e2",
+        "type": "join",
+        "z": "2b9946229feb8128",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 830,
+        "y": 760,
+        "wires": [
+            [
+                "2e0bf5db06c5b379",
+                "398ac2e109c7796b"
+            ]
+        ]
+    },
+    {
+        "id": "a4a9bac366ca89ba",
+        "type": "cloudantplus out",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtamigos",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 580,
+        "y": 440,
+        "wires": [
+            [
+                "e244563b4664cf16"
+            ]
+        ]
+    },
+    {
+        "id": "642689a3e311e40f",
+        "type": "http in",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "url": "/amigos",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 440,
+        "wires": [
+            [
+                "ef6cb7887b6ac888"
+            ]
+        ]
+    },
+    {
+        "id": "97a2054da91a407b",
+        "type": "debug",
+        "z": "3458b98de316ca8b",
+        "name": "debug 58",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "58d5b014d379806b",
+        "type": "cloudantplus out",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtamigos",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "delete",
+        "x": 580,
+        "y": 760,
+        "wires": [
+            [
+                "0166155bd0436f11"
+            ]
+        ]
+    },
+    {
+        "id": "184c7e2dc5ae3839",
+        "type": "http in",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "url": "/amigos",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 760,
+        "wires": [
+            [
+                "097970ca4a7ad5c7"
+            ]
+        ]
+    },
+    {
+        "id": "1438748a5742e70d",
+        "type": "http response",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "f61cd11594de075c",
+        "type": "debug",
+        "z": "3458b98de316ca8b",
+        "name": "debug 59",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "b9be7cc0f4bda98f",
+        "type": "cloudantplus out",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtamigos",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 580,
+        "y": 620,
+        "wires": [
+            [
+                "eb646e324970905c"
+            ]
+        ]
+    },
+    {
+        "id": "b85058c4d8837ae4",
+        "type": "http in",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "url": "/amigos",
+        "method": "put",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 620,
+        "wires": [
+            [
+                "ce834f4b8ed24a05"
+            ]
+        ]
+    },
+    {
+        "id": "10f9f0d28ea19d06",
+        "type": "http response",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "15db1ba09c3e2b0d",
+        "type": "debug",
+        "z": "3458b98de316ca8b",
+        "name": "debug 60",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "e7ad640365387e15",
+        "type": "http response",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "1f4101a80632f306",
+        "type": "debug",
+        "z": "3458b98de316ca8b",
+        "name": "debug 61",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "0afc85ea37be78d4",
+        "type": "http in",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "url": "/amigos",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 100,
+        "wires": [
+            [
+                "fb00d3a49e9d6248"
+            ]
+        ]
+    },
+    {
+        "id": "fb00d3a49e9d6248",
+        "type": "cloudantplus in",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtamigos",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 580,
+        "y": 100,
+        "wires": [
+            [
+                "e7ad640365387e15",
+                "1f4101a80632f306"
+            ]
+        ]
+    },
+    {
+        "id": "ef6cb7887b6ac888",
+        "type": "split",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 290,
+        "y": 440,
+        "wires": [
+            [
+                "bca2e3b01f4ac61a"
+            ]
+        ]
+    },
+    {
+        "id": "e244563b4664cf16",
+        "type": "function",
+        "z": "3458b98de316ca8b",
+        "name": "Merge",
+        "func": "var objeto = msg.priorObject\nobjeto[\"_id\"] = msg.payload.result.id\nobjeto[\"_rev\"] = msg.payload.result.rev\n\nmsg.payload = objeto\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 440,
+        "wires": [
+            [
+                "79116d39035f69e9"
+            ]
+        ]
+    },
+    {
+        "id": "ee2e2d1e66554fa3",
+        "type": "http response",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "bca2e3b01f4ac61a",
+        "type": "function",
+        "z": "3458b98de316ca8b",
+        "name": "Store",
+        "func": "msg.priorObject = msg.payload\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 440,
+        "wires": [
+            [
+                "a4a9bac366ca89ba"
+            ]
+        ]
+    },
+    {
+        "id": "79116d39035f69e9",
+        "type": "join",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 890,
+        "y": 440,
+        "wires": [
+            [
+                "ee2e2d1e66554fa3",
+                "97a2054da91a407b"
+            ]
+        ]
+    },
+    {
+        "id": "061d83dba45224d2",
+        "type": "http response",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "8fe7eee9ae559f75",
+        "type": "debug",
+        "z": "3458b98de316ca8b",
+        "name": "debug 62",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "553cab26cc8d6b02",
+        "type": "http in",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "url": "/amigo",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 260,
+        "wires": [
+            [
+                "6334dc22bb1165d6"
+            ]
+        ]
+    },
+    {
+        "id": "6334dc22bb1165d6",
+        "type": "cloudantplus in",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtamigos",
+        "service": "_ext_",
+        "search": "_id_",
+        "design": "",
+        "index": "",
+        "x": 580,
+        "y": 260,
+        "wires": [
+            [
+                "061d83dba45224d2",
+                "8fe7eee9ae559f75"
+            ]
+        ]
+    },
+    {
+        "id": "ce834f4b8ed24a05",
+        "type": "split",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 270,
+        "y": 620,
+        "wires": [
+            [
+                "07c88e4862f32078"
+            ]
+        ]
+    },
+    {
+        "id": "07c88e4862f32078",
+        "type": "function",
+        "z": "3458b98de316ca8b",
+        "name": "Store",
+        "func": "msg.priorObject = msg.payload\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 620,
+        "wires": [
+            [
+                "b9be7cc0f4bda98f"
+            ]
+        ]
+    },
+    {
+        "id": "eb646e324970905c",
+        "type": "function",
+        "z": "3458b98de316ca8b",
+        "name": "Merge",
+        "func": "var objeto = msg.priorObject\nobjeto[\"_id\"] = msg.payload.result.id\nobjeto[\"_rev\"] = msg.payload.result.rev\n\nmsg.payload = objeto\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 620,
+        "wires": [
+            [
+                "3f26b4612d288663"
+            ]
+        ]
+    },
+    {
+        "id": "3f26b4612d288663",
+        "type": "join",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 890,
+        "y": 620,
+        "wires": [
+            [
+                "10f9f0d28ea19d06",
+                "15db1ba09c3e2b0d"
+            ]
+        ]
+    },
+    {
+        "id": "097970ca4a7ad5c7",
+        "type": "split",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 370,
+        "y": 760,
+        "wires": [
+            [
+                "58d5b014d379806b"
+            ]
+        ]
+    },
+    {
+        "id": "0166155bd0436f11",
+        "type": "join",
+        "z": "3458b98de316ca8b",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 830,
+        "y": 760,
+        "wires": [
+            [
+                "1438748a5742e70d",
+                "f61cd11594de075c"
+            ]
+        ]
+    },
+    {
+        "id": "c3526cba32e20a81",
+        "type": "cloudantplus out",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtequipes",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 590,
+        "y": 440,
+        "wires": [
+            [
+                "c148da154790ab7d"
+            ]
+        ]
+    },
+    {
+        "id": "94fee97b203c4614",
+        "type": "http in",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "url": "/equipes",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 440,
+        "wires": [
+            [
+                "a0dddc8836923721"
+            ]
+        ]
+    },
+    {
+        "id": "56b2e26feb0f0486",
+        "type": "debug",
+        "z": "b0a98b95bfcd91b9",
+        "name": "debug 63",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "51a632ceac4c5405",
+        "type": "cloudantplus out",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtequipes",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "delete",
+        "x": 590,
+        "y": 760,
+        "wires": [
+            [
+                "1f24a8902dbe35d6"
+            ]
+        ]
+    },
+    {
+        "id": "4aae4d8efe1cffde",
+        "type": "http in",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "url": "/equipes",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 760,
+        "wires": [
+            [
+                "5016879d09415c2d"
+            ]
+        ]
+    },
+    {
+        "id": "bdddb45f8fa49171",
+        "type": "http response",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "b06f53c0d2dab36a",
+        "type": "debug",
+        "z": "b0a98b95bfcd91b9",
+        "name": "debug 64",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "2ea4091ba5267574",
+        "type": "cloudantplus out",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtequipes",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 590,
+        "y": 620,
+        "wires": [
+            [
+                "8054b38eaf478580"
+            ]
+        ]
+    },
+    {
+        "id": "850c5ff9dced1eae",
+        "type": "http in",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "url": "/equipes",
+        "method": "put",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 620,
+        "wires": [
+            [
+                "964da115bdc07acb"
+            ]
+        ]
+    },
+    {
+        "id": "a6f6dcd09f42adec",
+        "type": "http response",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "0d741aa3215d54ca",
+        "type": "debug",
+        "z": "b0a98b95bfcd91b9",
+        "name": "debug 65",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "1d03b95fd7944a43",
+        "type": "http response",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "cff5f2972855bb89",
+        "type": "debug",
+        "z": "b0a98b95bfcd91b9",
+        "name": "debug 66",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "14ea24e9b236584a",
+        "type": "http in",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "url": "/equipes",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 100,
+        "wires": [
+            [
+                "c3c32d406ca25d43"
+            ]
+        ]
+    },
+    {
+        "id": "c3c32d406ca25d43",
+        "type": "cloudantplus in",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtequipes",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 590,
+        "y": 100,
+        "wires": [
+            [
+                "1d03b95fd7944a43",
+                "cff5f2972855bb89"
+            ]
+        ]
+    },
+    {
+        "id": "a0dddc8836923721",
+        "type": "split",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 290,
+        "y": 440,
+        "wires": [
+            [
+                "8d2e70d7804af91a"
+            ]
+        ]
+    },
+    {
+        "id": "c148da154790ab7d",
+        "type": "function",
+        "z": "b0a98b95bfcd91b9",
+        "name": "Merge",
+        "func": "var objeto = msg.priorObject\nobjeto[\"_id\"] = msg.payload.result.id\nobjeto[\"_rev\"] = msg.payload.result.rev\n\nmsg.payload = objeto\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 440,
+        "wires": [
+            [
+                "ebda1ed233d2f9d7"
+            ]
+        ]
+    },
+    {
+        "id": "ae29a6138c84c4a3",
+        "type": "http response",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "8d2e70d7804af91a",
+        "type": "function",
+        "z": "b0a98b95bfcd91b9",
+        "name": "Store",
+        "func": "msg.priorObject = msg.payload\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 440,
+        "wires": [
+            [
+                "c3526cba32e20a81"
+            ]
+        ]
+    },
+    {
+        "id": "ebda1ed233d2f9d7",
+        "type": "join",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 890,
+        "y": 440,
+        "wires": [
+            [
+                "ae29a6138c84c4a3",
+                "56b2e26feb0f0486"
+            ]
+        ]
+    },
+    {
+        "id": "e2bdde41f575f61f",
+        "type": "http response",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "9cc288dc2041979c",
+        "type": "debug",
+        "z": "b0a98b95bfcd91b9",
+        "name": "debug 67",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "d086384b9244e72b",
+        "type": "http in",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "url": "/equipe",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 260,
+        "wires": [
+            [
+                "1cab0214cb51d914"
+            ]
+        ]
+    },
+    {
+        "id": "1cab0214cb51d914",
+        "type": "cloudantplus in",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtequipes",
+        "service": "_ext_",
+        "search": "_id_",
+        "design": "",
+        "index": "",
+        "x": 590,
+        "y": 260,
+        "wires": [
+            [
+                "e2bdde41f575f61f",
+                "9cc288dc2041979c"
+            ]
+        ]
+    },
+    {
+        "id": "964da115bdc07acb",
+        "type": "split",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 270,
+        "y": 620,
+        "wires": [
+            [
+                "5b230187aa9b4085"
+            ]
+        ]
+    },
+    {
+        "id": "5b230187aa9b4085",
+        "type": "function",
+        "z": "b0a98b95bfcd91b9",
+        "name": "Store",
+        "func": "msg.priorObject = msg.payload\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 620,
+        "wires": [
+            [
+                "2ea4091ba5267574"
+            ]
+        ]
+    },
+    {
+        "id": "8054b38eaf478580",
+        "type": "function",
+        "z": "b0a98b95bfcd91b9",
+        "name": "Merge",
+        "func": "var objeto = msg.priorObject\nobjeto[\"_id\"] = msg.payload.result.id\nobjeto[\"_rev\"] = msg.payload.result.rev\n\nmsg.payload = objeto\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 620,
+        "wires": [
+            [
+                "ee63d7a7f8b15eae"
+            ]
+        ]
+    },
+    {
+        "id": "ee63d7a7f8b15eae",
+        "type": "join",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 890,
+        "y": 620,
+        "wires": [
+            [
+                "a6f6dcd09f42adec",
+                "0d741aa3215d54ca"
+            ]
+        ]
+    },
+    {
+        "id": "5016879d09415c2d",
+        "type": "split",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 370,
+        "y": 760,
+        "wires": [
+            [
+                "51a632ceac4c5405"
+            ]
+        ]
+    },
+    {
+        "id": "1f24a8902dbe35d6",
+        "type": "join",
+        "z": "b0a98b95bfcd91b9",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 830,
+        "y": 760,
+        "wires": [
+            [
+                "bdddb45f8fa49171",
+                "b06f53c0d2dab36a"
+            ]
+        ]
+    },
+    {
+        "id": "28049456fc7af2dd",
+        "type": "cloudantplus out",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtparticipacoes",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 620,
+        "y": 440,
+        "wires": [
+            [
+                "9e94b762e137fe8b"
+            ]
+        ]
+    },
+    {
+        "id": "d7a41b884033b1c1",
+        "type": "http in",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "url": "/participacoes",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 130,
+        "y": 440,
+        "wires": [
+            [
+                "b1ddf007f9f6e667"
+            ]
+        ]
+    },
+    {
+        "id": "442ab2788e06b8b0",
+        "type": "debug",
+        "z": "a37751d2a82fd8ae",
+        "name": "debug 68",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "8429c0bf8606cdf4",
+        "type": "cloudantplus out",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtparticipacoes",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "delete",
+        "x": 620,
+        "y": 760,
+        "wires": [
+            [
+                "ebcb238b5aaf5152"
+            ]
+        ]
+    },
+    {
+        "id": "2a69d185ee6cb0c5",
+        "type": "http in",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "url": "/participacoes",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 140,
+        "y": 760,
+        "wires": [
+            [
+                "2d134a90b13d701f"
+            ]
+        ]
+    },
+    {
+        "id": "223a8e0bd651b730",
+        "type": "http response",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1090,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "27dc2e31570e8386",
+        "type": "debug",
+        "z": "a37751d2a82fd8ae",
+        "name": "debug 69",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "f35562eddb53b598",
+        "type": "cloudantplus out",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtparticipacoes",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 620,
+        "y": 620,
+        "wires": [
+            [
+                "49d7675784ec5089"
+            ]
+        ]
+    },
+    {
+        "id": "ac712ce3bc8af189",
+        "type": "http in",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "url": "/participacoes",
+        "method": "put",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 130,
+        "y": 620,
+        "wires": [
+            [
+                "50bb5c5d4e2f7d60"
+            ]
+        ]
+    },
+    {
+        "id": "bf0c84c5cda37d5a",
+        "type": "http response",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1090,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "a0491cb3569ff459",
+        "type": "debug",
+        "z": "a37751d2a82fd8ae",
+        "name": "debug 70",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "fec84e92c74df30f",
+        "type": "http response",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1090,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "d892661640a33ad3",
+        "type": "debug",
+        "z": "a37751d2a82fd8ae",
+        "name": "debug 71",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "4c058a142a1bcf16",
+        "type": "http in",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "url": "/participacoes",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 130,
+        "y": 100,
+        "wires": [
+            [
+                "51be11c44cc83af1"
+            ]
+        ]
+    },
+    {
+        "id": "51be11c44cc83af1",
+        "type": "cloudantplus in",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtparticipacoes",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 620,
+        "y": 100,
+        "wires": [
+            [
+                "fec84e92c74df30f",
+                "d892661640a33ad3"
+            ]
+        ]
+    },
+    {
+        "id": "b1ddf007f9f6e667",
+        "type": "split",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 310,
+        "y": 440,
+        "wires": [
+            [
+                "c482f155ba11dbaf"
+            ]
+        ]
+    },
+    {
+        "id": "9e94b762e137fe8b",
+        "type": "function",
+        "z": "a37751d2a82fd8ae",
+        "name": "Merge",
+        "func": "var objeto = msg.priorObject\nobjeto[\"_id\"] = msg.payload.result.id\nobjeto[\"_rev\"] = msg.payload.result.rev\n\nmsg.payload = objeto\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 770,
+        "y": 440,
+        "wires": [
+            [
+                "eda3b162052fdd3f"
+            ]
+        ]
+    },
+    {
+        "id": "3726f2a855ae19f9",
+        "type": "http response",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1090,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "c482f155ba11dbaf",
+        "type": "function",
+        "z": "a37751d2a82fd8ae",
+        "name": "Store",
+        "func": "msg.priorObject = msg.payload\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 440,
+        "wires": [
+            [
+                "28049456fc7af2dd"
+            ]
+        ]
+    },
+    {
+        "id": "eda3b162052fdd3f",
+        "type": "join",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 910,
+        "y": 440,
+        "wires": [
+            [
+                "3726f2a855ae19f9",
+                "442ab2788e06b8b0"
+            ]
+        ]
+    },
+    {
+        "id": "36e27fb61ae6e382",
+        "type": "http response",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1090,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "3e4813e15623fe0c",
+        "type": "debug",
+        "z": "a37751d2a82fd8ae",
+        "name": "debug 72",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "e475c2164eb9ab3c",
+        "type": "http in",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "url": "/participacao",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 130,
+        "y": 260,
+        "wires": [
+            [
+                "426bc55e7bfc48f6"
+            ]
+        ]
+    },
+    {
+        "id": "426bc55e7bfc48f6",
+        "type": "cloudantplus in",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtparticipacoes",
+        "service": "_ext_",
+        "search": "_id_",
+        "design": "",
+        "index": "",
+        "x": 620,
+        "y": 260,
+        "wires": [
+            [
+                "36e27fb61ae6e382",
+                "3e4813e15623fe0c"
+            ]
+        ]
+    },
+    {
+        "id": "50bb5c5d4e2f7d60",
+        "type": "split",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 290,
+        "y": 620,
+        "wires": [
+            [
+                "a84f6bb9c85a4deb"
+            ]
+        ]
+    },
+    {
+        "id": "a84f6bb9c85a4deb",
+        "type": "function",
+        "z": "a37751d2a82fd8ae",
+        "name": "Store",
+        "func": "msg.priorObject = msg.payload\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 620,
+        "wires": [
+            [
+                "f35562eddb53b598"
+            ]
+        ]
+    },
+    {
+        "id": "49d7675784ec5089",
+        "type": "function",
+        "z": "a37751d2a82fd8ae",
+        "name": "Merge",
+        "func": "var objeto = msg.priorObject\nobjeto[\"_id\"] = msg.payload.result.id\nobjeto[\"_rev\"] = msg.payload.result.rev\n\nmsg.payload = objeto\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 770,
+        "y": 620,
+        "wires": [
+            [
+                "01da7a658ccac9e9"
+            ]
+        ]
+    },
+    {
+        "id": "01da7a658ccac9e9",
+        "type": "join",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 910,
+        "y": 620,
+        "wires": [
+            [
+                "bf0c84c5cda37d5a",
+                "a0491cb3569ff459"
+            ]
+        ]
+    },
+    {
+        "id": "2d134a90b13d701f",
+        "type": "split",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 390,
+        "y": 760,
+        "wires": [
+            [
+                "8429c0bf8606cdf4"
+            ]
+        ]
+    },
+    {
+        "id": "ebcb238b5aaf5152",
+        "type": "join",
+        "z": "a37751d2a82fd8ae",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 850,
+        "y": 760,
+        "wires": [
+            [
+                "223a8e0bd651b730",
+                "27dc2e31570e8386"
+            ]
+        ]
+    },
+    {
+        "id": "328a84922e71a86e",
+        "type": "cloudantplus out",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtevento",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 580,
+        "y": 420,
+        "wires": [
+            [
+                "0f3d4118af81d43d"
+            ]
+        ]
+    },
+    {
+        "id": "4851788a4324a5dc",
+        "type": "http in",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "url": "/eventos",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 420,
+        "wires": [
+            [
+                "a69da90bbdde4812"
+            ]
+        ]
+    },
+    {
+        "id": "98cf4d3d28ddc0ae",
+        "type": "debug",
+        "z": "5457b4a1ecaeef18",
+        "name": "debug 73",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "07335bb77dd2fcae",
+        "type": "cloudantplus out",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtevento",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "delete",
+        "x": 580,
+        "y": 740,
+        "wires": [
+            [
+                "f3429d07f3785142"
+            ]
+        ]
+    },
+    {
+        "id": "e3fa45292f672c10",
+        "type": "http in",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "url": "/eventos",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 740,
+        "wires": [
+            [
+                "c1f275d8995f9cc7"
+            ]
+        ]
+    },
+    {
+        "id": "3abc8de6fc640678",
+        "type": "http response",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "175af29ffc29c572",
+        "type": "debug",
+        "z": "5457b4a1ecaeef18",
+        "name": "debug 74",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "94ba911366cc5e58",
+        "type": "cloudantplus out",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtevento",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 580,
+        "y": 600,
+        "wires": [
+            [
+                "a5ca1aa6cccf7f59"
+            ]
+        ]
+    },
+    {
+        "id": "cbe07463edb312ca",
+        "type": "http in",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "url": "/eventos",
+        "method": "put",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 600,
+        "wires": [
+            [
+                "142404ee32345585"
+            ]
+        ]
+    },
+    {
+        "id": "57a9db7a027167ae",
+        "type": "http response",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "1cb3f4c34d317c47",
+        "type": "debug",
+        "z": "5457b4a1ecaeef18",
+        "name": "debug 75",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "89b7bb412572e7de",
+        "type": "http response",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "2c0c6825eac3f4e8",
+        "type": "debug",
+        "z": "5457b4a1ecaeef18",
+        "name": "debug 76",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "5a257fbb794c8473",
+        "type": "http in",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "url": "/eventos",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 80,
+        "wires": [
+            [
+                "2e0feffd1dfa12d2"
+            ]
+        ]
+    },
+    {
+        "id": "2e0feffd1dfa12d2",
+        "type": "cloudantplus in",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtevento",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 580,
+        "y": 80,
+        "wires": [
+            [
+                "89b7bb412572e7de",
+                "2c0c6825eac3f4e8"
+            ]
+        ]
+    },
+    {
+        "id": "a69da90bbdde4812",
+        "type": "split",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 290,
+        "y": 420,
+        "wires": [
+            [
+                "243eaed1034db81d"
+            ]
+        ]
+    },
+    {
+        "id": "0f3d4118af81d43d",
+        "type": "function",
+        "z": "5457b4a1ecaeef18",
+        "name": "Merge",
+        "func": "var objeto = msg.priorObject\nobjeto[\"_id\"] = msg.payload.result.id\nobjeto[\"_rev\"] = msg.payload.result.rev\n\nmsg.payload = objeto\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 420,
+        "wires": [
+            [
+                "30a908a6312488f6"
+            ]
+        ]
+    },
+    {
+        "id": "c7194fa50dfc12d7",
+        "type": "http response",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "243eaed1034db81d",
+        "type": "function",
+        "z": "5457b4a1ecaeef18",
+        "name": "Store",
+        "func": "msg.priorObject = msg.payload\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 420,
+        "wires": [
+            [
+                "328a84922e71a86e"
+            ]
+        ]
+    },
+    {
+        "id": "30a908a6312488f6",
+        "type": "join",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 890,
+        "y": 420,
+        "wires": [
+            [
+                "c7194fa50dfc12d7",
+                "98cf4d3d28ddc0ae"
+            ]
+        ]
+    },
+    {
+        "id": "d66531642dde90d8",
+        "type": "http response",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "f4124e03463354f8",
+        "type": "debug",
+        "z": "5457b4a1ecaeef18",
+        "name": "debug 77",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "920c22d46f96063c",
+        "type": "http in",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "url": "/evento",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 240,
+        "wires": [
+            [
+                "0aef7bab26508d56"
+            ]
+        ]
+    },
+    {
+        "id": "0aef7bab26508d56",
+        "type": "cloudantplus in",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtevento",
+        "service": "_ext_",
+        "search": "_id_",
+        "design": "",
+        "index": "",
+        "x": 580,
+        "y": 240,
+        "wires": [
+            [
+                "d66531642dde90d8",
+                "f4124e03463354f8"
+            ]
+        ]
+    },
+    {
+        "id": "142404ee32345585",
+        "type": "split",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 270,
+        "y": 600,
+        "wires": [
+            [
+                "eb25a2653ea8c3b9"
+            ]
+        ]
+    },
+    {
+        "id": "eb25a2653ea8c3b9",
+        "type": "function",
+        "z": "5457b4a1ecaeef18",
+        "name": "Store",
+        "func": "msg.priorObject = msg.payload\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 600,
+        "wires": [
+            [
+                "94ba911366cc5e58"
+            ]
+        ]
+    },
+    {
+        "id": "a5ca1aa6cccf7f59",
+        "type": "function",
+        "z": "5457b4a1ecaeef18",
+        "name": "Merge",
+        "func": "var objeto = msg.priorObject\nobjeto[\"_id\"] = msg.payload.result.id\nobjeto[\"_rev\"] = msg.payload.result.rev\n\nmsg.payload = objeto\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 600,
+        "wires": [
+            [
+                "b55e8a16139378d0"
+            ]
+        ]
+    },
+    {
+        "id": "b55e8a16139378d0",
+        "type": "join",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 890,
+        "y": 600,
+        "wires": [
+            [
+                "57a9db7a027167ae",
+                "1cb3f4c34d317c47"
+            ]
+        ]
+    },
+    {
+        "id": "c1f275d8995f9cc7",
+        "type": "split",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 370,
+        "y": 740,
+        "wires": [
+            [
+                "07335bb77dd2fcae"
+            ]
+        ]
+    },
+    {
+        "id": "f3429d07f3785142",
+        "type": "join",
+        "z": "5457b4a1ecaeef18",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 830,
+        "y": 740,
+        "wires": [
+            [
+                "3abc8de6fc640678",
+                "175af29ffc29c572"
+            ]
+        ]
+    },
+    {
+        "id": "cc4b9b5ea00bc472",
+        "type": "cloudantplus out",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtpartidas",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 590,
+        "y": 440,
+        "wires": [
+            [
+                "eaebcfc3d1f39d13"
+            ]
+        ]
+    },
+    {
+        "id": "99f590d25666222e",
+        "type": "http in",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "url": "/partidas",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 440,
+        "wires": [
+            [
+                "18d8b419fb6b6e25"
+            ]
+        ]
+    },
+    {
+        "id": "30365fa88d15361d",
+        "type": "debug",
+        "z": "579f19f6bc635869",
+        "name": "debug 78",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "d0af7519905ed591",
+        "type": "cloudantplus out",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtpartidas",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "delete",
+        "x": 590,
+        "y": 760,
+        "wires": [
+            [
+                "a5d828be695ea698"
+            ]
+        ]
+    },
+    {
+        "id": "ab30219a6c393e20",
+        "type": "http in",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "url": "/partidas",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 760,
+        "wires": [
+            [
+                "5c39009fe9033e74"
+            ]
+        ]
+    },
+    {
+        "id": "6f9cd279346a969a",
+        "type": "http response",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "1527a826532b68e5",
+        "type": "debug",
+        "z": "579f19f6bc635869",
+        "name": "debug 79",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "a1d8ee7524f6f37a",
+        "type": "cloudantplus out",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtpartidas",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 590,
+        "y": 620,
+        "wires": [
+            [
+                "50669f70035454fd"
+            ]
+        ]
+    },
+    {
+        "id": "f87b932625ea8d91",
+        "type": "http in",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "url": "/partidas",
+        "method": "put",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 620,
+        "wires": [
+            [
+                "2f7888e7770bc7db"
+            ]
+        ]
+    },
+    {
+        "id": "65c82d55a00e65fe",
+        "type": "http response",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "9520986663f58327",
+        "type": "debug",
+        "z": "579f19f6bc635869",
+        "name": "debug 80",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "3c29a16763b3976c",
+        "type": "http response",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "0cc3f9e884c2de9e",
+        "type": "debug",
+        "z": "579f19f6bc635869",
+        "name": "debug 81",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "213d2174263a3a51",
+        "type": "http in",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "url": "/partidas",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 100,
+        "wires": [
+            [
+                "a20358c2486b7242"
+            ]
+        ]
+    },
+    {
+        "id": "a20358c2486b7242",
+        "type": "cloudantplus in",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtpartidas",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 590,
+        "y": 100,
+        "wires": [
+            [
+                "3c29a16763b3976c",
+                "0cc3f9e884c2de9e"
+            ]
+        ]
+    },
+    {
+        "id": "18d8b419fb6b6e25",
+        "type": "split",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 290,
+        "y": 440,
+        "wires": [
+            [
+                "0cfb7d5e67dbc86a"
+            ]
+        ]
+    },
+    {
+        "id": "eaebcfc3d1f39d13",
+        "type": "function",
+        "z": "579f19f6bc635869",
+        "name": "Merge",
+        "func": "var objeto = msg.priorObject\nobjeto[\"_id\"] = msg.payload.result.id\nobjeto[\"_rev\"] = msg.payload.result.rev\n\nmsg.payload = objeto\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 440,
+        "wires": [
+            [
+                "dd63f8eb6f4261af"
+            ]
+        ]
+    },
+    {
+        "id": "428a94ab05206f96",
+        "type": "http response",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "0cfb7d5e67dbc86a",
+        "type": "function",
+        "z": "579f19f6bc635869",
+        "name": "Store",
+        "func": "msg.priorObject = msg.payload\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 440,
+        "wires": [
+            [
+                "cc4b9b5ea00bc472"
+            ]
+        ]
+    },
+    {
+        "id": "dd63f8eb6f4261af",
+        "type": "join",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 890,
+        "y": 440,
+        "wires": [
+            [
+                "428a94ab05206f96",
+                "30365fa88d15361d"
+            ]
+        ]
+    },
+    {
+        "id": "67ac1ede8fbc7052",
+        "type": "http response",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "9256b1c13c873bd3",
+        "type": "debug",
+        "z": "579f19f6bc635869",
+        "name": "debug 82",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "4e299949974f314e",
+        "type": "http in",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "url": "/partida",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 260,
+        "wires": [
+            [
+                "ba3fe0f91f1be734"
+            ]
+        ]
+    },
+    {
+        "id": "ba3fe0f91f1be734",
+        "type": "cloudantplus in",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "cloudant": "b2951d6249908fc1",
+        "database": "mtpartidas",
+        "service": "_ext_",
+        "search": "_id_",
+        "design": "",
+        "index": "",
+        "x": 590,
+        "y": 260,
+        "wires": [
+            [
+                "67ac1ede8fbc7052",
+                "9256b1c13c873bd3"
+            ]
+        ]
+    },
+    {
+        "id": "2f7888e7770bc7db",
+        "type": "split",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 270,
+        "y": 620,
+        "wires": [
+            [
+                "5eb157d035e8a953"
+            ]
+        ]
+    },
+    {
+        "id": "5eb157d035e8a953",
+        "type": "function",
+        "z": "579f19f6bc635869",
+        "name": "Store",
+        "func": "msg.priorObject = msg.payload\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 620,
+        "wires": [
+            [
+                "a1d8ee7524f6f37a"
+            ]
+        ]
+    },
+    {
+        "id": "50669f70035454fd",
+        "type": "function",
+        "z": "579f19f6bc635869",
+        "name": "Merge",
+        "func": "var objeto = msg.priorObject\nobjeto[\"_id\"] = msg.payload.result.id\nobjeto[\"_rev\"] = msg.payload.result.rev\n\nmsg.payload = objeto\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 620,
+        "wires": [
+            [
+                "fcc920e10f7d9185"
+            ]
+        ]
+    },
+    {
+        "id": "fcc920e10f7d9185",
+        "type": "join",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 890,
+        "y": 620,
+        "wires": [
+            [
+                "65c82d55a00e65fe",
+                "9520986663f58327"
+            ]
+        ]
+    },
+    {
+        "id": "5c39009fe9033e74",
+        "type": "split",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 370,
+        "y": 760,
+        "wires": [
+            [
+                "d0af7519905ed591"
+            ]
+        ]
+    },
+    {
+        "id": "a5d828be695ea698",
+        "type": "join",
+        "z": "579f19f6bc635869",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 830,
+        "y": 760,
+        "wires": [
+            [
+                "6f9cd279346a969a",
+                "1527a826532b68e5"
+            ]
+        ]
+    },
+    {
+        "id": "8299525e226b25d4",
+        "type": "ibmiot in",
+        "z": "917744e43ff041f1",
+        "authentication": "apiKey",
+        "apiKey": "1ddc098d805d3fc5",
+        "inputType": "evt",
+        "logicalInterface": "",
+        "ruleId": "",
+        "deviceId": "umidade_uft",
+        "applicationId": "",
+        "deviceType": "+",
+        "eventType": "+",
+        "commandType": "",
+        "format": "json",
+        "name": "IBM IoT",
+        "service": "registered",
+        "allDevices": "",
+        "allApplications": "",
+        "allDeviceTypes": true,
+        "allLogicalInterfaces": "",
+        "allEvents": true,
+        "allCommands": "",
+        "allFormats": "",
+        "qos": 0,
+        "x": 70,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e48863d8e6ada9f5",
+        "type": "cloudantplus out",
+        "z": "917744e43ff041f1",
+        "name": "Salva Entrada",
+        "cloudant": "",
+        "database": "mateusrosario_umidade",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 500,
+        "y": 320,
+        "wires": [
+            [
+                "0a23166f284db457"
+            ]
+        ]
+    },
+    {
+        "id": "d0559e86042c20bc",
+        "type": "function",
+        "z": "917744e43ff041f1",
+        "name": "Adiciona Tempo",
+        "func": "msg.payload = msg.payload.d\nmsg.payload[\"time\"] = Date.now()\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 280,
+        "y": 320,
+        "wires": [
+            [
+                "e48863d8e6ada9f5",
+                "c285b5b0d4f47861"
+            ]
+        ]
+    },
+    {
+        "id": "c285b5b0d4f47861",
+        "type": "debug",
+        "z": "917744e43ff041f1",
+        "name": "debug 83",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 560,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "1f974e1855403d67",
+        "type": "inject",
+        "z": "917744e43ff041f1",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 120,
+        "y": 500,
+        "wires": [
+            [
+                "3657e0df9401b504"
+            ]
+        ]
+    },
+    {
+        "id": "c11e265c93e3e9c5",
+        "type": "cloudantplus out",
+        "z": "917744e43ff041f1",
+        "name": "",
+        "cloudant": "",
+        "database": "mateusrosario_umidade",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "delete",
+        "x": 850,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3657e0df9401b504",
+        "type": "cloudantplus in",
+        "z": "917744e43ff041f1",
+        "name": "",
+        "cloudant": "",
+        "database": "mateusrosario_umidade",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 350,
+        "y": 500,
+        "wires": [
+            [
+                "6f350dd94c06223e"
+            ]
+        ]
+    },
+    {
+        "id": "6f350dd94c06223e",
+        "type": "function",
+        "z": "917744e43ff041f1",
+        "name": "function 2",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "21cff717771b361f",
+        "type": "cloudantplus in",
+        "z": "917744e43ff041f1",
+        "name": "Pega Entradas",
+        "cloudant": "",
+        "database": "mateusrosario_umidade",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 440,
+        "y": 400,
+        "wires": [
+            [
+                "eb1d173517bec083",
+                "2a39c960f9563a5b"
+            ]
+        ]
+    },
+    {
+        "id": "eb1d173517bec083",
+        "type": "function",
+        "z": "917744e43ff041f1",
+        "name": "Seleciona ultima",
+        "func": "console.log(msg.payload.length)\nif (msg.payload.length > 10) {\n    msg.payload = msg.payload[msg.payload.length - 1]\n    console.log(msg.payload)\n    msg.payload[\"docId\"] = msg.payload.id\n    msg.payload[\"_id\"] = msg.payload.id\n    msg.payload[\"_rev\"] = msg.payload.rev\n} else {\n    msg.payload = null\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 400,
+        "wires": [
+            [
+                "93afa89ec2fbf5ad",
+                "4b34035fb18bf7bd"
+            ]
+        ]
+    },
+    {
+        "id": "7983b5460faf486f",
+        "type": "cloudantplus out",
+        "z": "917744e43ff041f1",
+        "name": "Remover",
+        "cloudant": "",
+        "database": "mateusrosario_umidade",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "delete",
+        "x": 980,
+        "y": 340,
+        "wires": [
+            [
+                "d4e86c9a94a0f179"
+            ]
+        ]
+    },
+    {
+        "id": "d4e86c9a94a0f179",
+        "type": "debug",
+        "z": "917744e43ff041f1",
+        "name": "debug 84",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "0a23166f284db457",
+        "type": "change",
+        "z": "917744e43ff041f1",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 740,
+        "y": 320,
+        "wires": [
+            [
+                "21cff717771b361f"
+            ]
+        ]
+    },
+    {
+        "id": "93afa89ec2fbf5ad",
+        "type": "switch",
+        "z": "917744e43ff041f1",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "nnull"
+            },
+            {
+                "t": "null"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 830,
+        "y": 400,
+        "wires": [
+            [
+                "7983b5460faf486f"
+            ],
+            [
+                "79aa5d49a68bca3b"
+            ]
+        ]
+    },
+    {
+        "id": "c26297f793ea171d",
+        "type": "debug",
+        "z": "917744e43ff041f1",
+        "name": "debug 85",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1180,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "79aa5d49a68bca3b",
+        "type": "change",
+        "z": "917744e43ff041f1",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "data base não atingiu o limite",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1000,
+        "y": 420,
+        "wires": [
+            [
+                "c26297f793ea171d"
+            ]
+        ]
+    },
+    {
+        "id": "4b34035fb18bf7bd",
+        "type": "debug",
+        "z": "917744e43ff041f1",
+        "name": "debug 86",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1020,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "2a39c960f9563a5b",
+        "type": "debug",
+        "z": "917744e43ff041f1",
+        "name": "debug 87",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 800,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "0a802eef563b4e84",
+        "type": "http in",
+        "z": "ce806b383a3c30f7",
+        "name": "",
+        "url": "/atualizarQuitanda",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 180,
+        "y": 100,
+        "wires": [
+            [
+                "52161838e67823d9"
+            ]
+        ]
+    },
+    {
+        "id": "7ef98631bc6fe497",
+        "type": "http response",
+        "z": "ce806b383a3c30f7",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 710,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "52161838e67823d9",
+        "type": "cloudantplus out",
+        "z": "ce806b383a3c30f7",
+        "name": "",
+        "cloudant": "9b146563978efb67",
+        "database": "quitandadb",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 450,
+        "y": 100,
+        "wires": [
+            [
+                "7ef98631bc6fe497"
+            ]
+        ]
+    },
+    {
+        "id": "5358335440bbc05d",
+        "type": "http in",
+        "z": "e4eb4caef0eb148a",
+        "name": "",
+        "url": "/deletaAluno",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 80,
+        "wires": [
+            [
+                "a9580390dda1bed7"
+            ]
+        ]
+    },
+    {
+        "id": "7c5dd8b3f4b6ec6b",
+        "type": "http response",
+        "z": "e4eb4caef0eb148a",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 570,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "a9580390dda1bed7",
+        "type": "cloudantplus out",
+        "z": "e4eb4caef0eb148a",
+        "name": "",
+        "cloudant": "3f7137731a557ae3",
+        "database": "joaogoulart",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "delete",
+        "x": 370,
+        "y": 80,
+        "wires": [
+            [
+                "7c5dd8b3f4b6ec6b"
+            ]
+        ]
+    },
+    {
+        "id": "4e7e47a557bafc62",
+        "type": "cloudantplus in",
+        "z": "49e02cd63adc0a48",
+        "name": "",
+        "cloudant": "9b146563978efb67",
+        "database": "kaynamesquita",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 420,
+        "y": 340,
+        "wires": [
+            [
+                "5af7685ac3a9f431",
+                "3d3c1c6461996965"
+            ]
+        ]
+    },
+    {
+        "id": "3ba3f23141dcb5d0",
+        "type": "cloudantplus out",
+        "z": "49e02cd63adc0a48",
+        "name": "",
+        "cloudant": "9b146563978efb67",
+        "database": "kaynamesquita",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 420,
+        "y": 120,
+        "wires": [
+            [
+                "bfbdc38e140d8456"
+            ]
+        ]
+    },
+    {
+        "id": "069f879dbc2c1e8f",
+        "type": "http in",
+        "z": "49e02cd63adc0a48",
+        "name": "",
+        "url": "/salvarFaculdade",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 140,
+        "y": 120,
+        "wires": [
+            [
+                "3ba3f23141dcb5d0"
+            ]
+        ]
+    },
+    {
+        "id": "bfbdc38e140d8456",
+        "type": "http response",
+        "z": "49e02cd63adc0a48",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 710,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "837158404fe251b7",
+        "type": "http in",
+        "z": "49e02cd63adc0a48",
+        "name": "",
+        "url": "/lerFaculdades",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 130,
+        "y": 340,
+        "wires": [
+            [
+                "4e7e47a557bafc62"
+            ]
+        ]
+    },
+    {
+        "id": "5af7685ac3a9f431",
+        "type": "http response",
+        "z": "49e02cd63adc0a48",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 650,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "3d3c1c6461996965",
+        "type": "debug",
+        "z": "49e02cd63adc0a48",
+        "name": "debug 96",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 640,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "1088fefad768a978",
+        "type": "inject",
+        "z": "9ad9652a185f6583",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Cadeia de caracteres",
+        "payloadType": "str",
+        "x": 180,
+        "y": 180,
+        "wires": [
+            [
+                "e75511194c49f550"
+            ]
+        ]
+    },
+    {
+        "id": "f6064a9fbeea8aa9",
+        "type": "play audio",
+        "z": "9ad9652a185f6583",
+        "name": "",
+        "voice": "74",
+        "x": 590,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "e75511194c49f550",
+        "type": "watson-text-to-speech",
+        "z": "9ad9652a185f6583",
+        "name": "",
+        "lang": "pt-BR",
+        "langhidden": "pt-BR",
+        "langcustom": "NoCustomisationSetting",
+        "langcustomhidden": "",
+        "voice": "pt-BR_IsabelaV3Voice",
+        "voicehidden": "",
+        "format": "audio/wav",
+        "password": "",
+        "apikey": "QHP_U7euoQalUCGvD_q_Pc83jpl12iqQGI9oMytTK5c4",
+        "payload-response": false,
+        "service-endpoint": "https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/167a4582-4467-4a1a-a384-ad642d660abe",
+        "x": 400,
+        "y": 180,
+        "wires": [
+            [
+                "f6064a9fbeea8aa9"
+            ]
+        ]
+    },
+    {
+        "id": "3c2f754d33138160",
+        "type": "debug",
+        "z": "9ad9652a185f6583",
+        "name": "debug 94",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 700,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "102edd11e3d4676a",
+        "type": "watson-speech-to-text",
+        "z": "9ad9652a185f6583",
+        "name": "",
+        "alternatives": 1,
+        "speakerlabels": true,
+        "smartformatting": false,
+        "lang": "pt-BR",
+        "langhidden": "pt-BR",
+        "langcustom": "NoCustomisationSetting",
+        "langcustomhidden": "",
+        "custom-weight": "0.5",
+        "band": "BroadbandModel",
+        "bandhidden": "",
+        "keywords": "",
+        "keywords-threshold": "0.5",
+        "word-confidence": false,
+        "password": "",
+        "apikey": "mOS0UhrivtiVpR0gyhT9sUBn0UZs7CZ679_AZR__H0X8",
+        "payload-response": false,
+        "streaming-mode": false,
+        "streaming-mute": true,
+        "auto-connect": false,
+        "discard-listening": false,
+        "disable-precheck": false,
+        "service-endpoint": "https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/2615399f-5b79-47ef-a13a-6210b1ecf2b4",
+        "x": 340,
+        "y": 300,
+        "wires": [
+            [
+                "263f7d825c9161fc"
+            ]
+        ]
+    },
+    {
+        "id": "1322ce1136b8d525",
+        "type": "microphone",
+        "z": "9ad9652a185f6583",
+        "name": "",
+        "x": 130,
+        "y": 300,
+        "wires": [
+            [
+                "102edd11e3d4676a"
+            ]
+        ]
+    },
+    {
+        "id": "263f7d825c9161fc",
+        "type": "function",
+        "z": "9ad9652a185f6583",
+        "name": "function 3",
+        "func": "msg.payload = msg.transcription;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 540,
+        "y": 300,
+        "wires": [
+            [
+                "3c2f754d33138160",
+                "a421d0d842e2814c"
+            ]
+        ]
+    },
+    {
+        "id": "d2b53d2638fc9a04",
+        "type": "debug",
+        "z": "9ad9652a185f6583",
+        "name": "debug 95",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 780,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "aa384baf73ca2050",
+        "type": "inject",
+        "z": "9ad9652a185f6583",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "cachorro",
+        "payloadType": "str",
+        "x": 220,
+        "y": 380,
+        "wires": [
+            [
+                "a421d0d842e2814c"
+            ]
+        ]
+    },
+    {
+        "id": "381f15d282f0096c",
+        "type": "watson-translator",
+        "z": "9ad9652a185f6583",
+        "name": "",
+        "action": "translate",
+        "basemodel": "ar-en",
+        "domain": "general",
+        "srclang": "en",
+        "destlang": "es",
+        "apikey": "ol_LfhN-IVZUPNH2MWejI6WkLXlWm8vet9xEtrQXClTQ",
+        "custom": "",
+        "domainhidden": "general",
+        "srclanghidden": "en",
+        "destlanghidden": "es",
+        "basemodelhidden": "ar-en",
+        "customhidden": "",
+        "filetype": "forcedglossary",
+        "trainid": "",
+        "lgparams2": true,
+        "service-endpoint": "https://api.us-south.language-translator.watson.cloud.ibm.com/instances/b5691325-553d-4e1c-b44c-9cfc9f24fa85",
+        "x": 610,
+        "y": 380,
+        "wires": [
+            [
+                "d2b53d2638fc9a04"
+            ]
+        ]
+    },
+    {
+        "id": "a421d0d842e2814c",
+        "type": "watson-translator",
+        "z": "9ad9652a185f6583",
+        "name": "",
+        "action": "translate",
+        "basemodel": "ar-en",
+        "domain": "general",
+        "srclang": "pt",
+        "destlang": "en",
+        "apikey": "ol_LfhN-IVZUPNH2MWejI6WkLXlWm8vet9xEtrQXClTQ",
+        "custom": "",
+        "domainhidden": "general",
+        "srclanghidden": "pt",
+        "destlanghidden": "en",
+        "basemodelhidden": "ar-en",
+        "customhidden": "",
+        "filetype": "forcedglossary",
+        "trainid": "",
+        "lgparams2": true,
+        "service-endpoint": "https://api.us-south.language-translator.watson.cloud.ibm.com/instances/b5691325-553d-4e1c-b44c-9cfc9f24fa85",
+        "x": 410,
+        "y": 380,
+        "wires": [
+            [
+                "381f15d282f0096c"
+            ]
+        ]
+    }
+]
