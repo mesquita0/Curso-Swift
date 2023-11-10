@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1bcc9556dd3b8131",
+        "type": "cloudantplus out",
+        "z": "c0fa27d3454ab199",
+        "name": "",
+        "cloudant": "",
+        "database": "remember",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "delete",
+        "x": 570,
+        "y": 660,
+        "wires": [
+            [
+                "fba394a9bb0638f2"
+            ]
+        ]
+    }
+]
